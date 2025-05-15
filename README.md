@@ -1,4 +1,4 @@
-# County Buddy - A Dataset of Outliers in Organized Subpopulations - incarcerated populations, student populations, military populations, and Native American populations
+# County Buddy - A Spatial Dataset of Outliers in Prisons, Universities, Military Bases, and Reservations
 
 County Buddy is a sophisticated tool designed to allow users to extract specific, curated insights from outlier data at the county and census tract levels. Its primary objective is to provide contextual understanding of whether observed outliers can be attributed to the presence of institutions or jurisdictional enclaves within these regions. The tool compiles data across several key demographic categories, including incarcerated population, student population, military population, and Native American population. County Buddy identifies counties or tracts exhibiting outlier data and informs users of the potential influence of nearby jurisdictional enclaves on these anomalies.
 
