@@ -10,6 +10,8 @@ Maybe you would like to run a regression (in R, Python or STATA) that helps you 
 
 Or maybe you would like to use these to help readers navigate your online map. They can be used as tooltips to help explain if, for example, prison populations correlate with life expectancy, percent smokers, or number of people on Medicare.
 
+This data is earmarked at Harvard Dataverse (DOI) and was created by researchers at the Georgia Institute of Technology College of Computing. Contact (cvu33@gatech.edu) for more info.
+
 ---
 
 ## County Summary Statistics
