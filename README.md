@@ -1,8 +1,10 @@
 # County Buddy - A Spatial Dataset of Outliers in Prisons, Universities, Military Bases, and Reservations
 
-A dataset of the presence, number of, and institution names of special populations at the U.S. county and census tract level. The objective of this dataset is provide context to bolster narratives about socio-economic indicators, provide a potential ‘explainer’ for why these values appear, or provide a landscape for situating these values.
-
-The data can be used by researchers and developers who are studying causality and correlation in health and livelihood outcomes, as they can be easily integrated into statistical models (e.g., in R or STATA). They can also be used by developers looking to enhance their maps of U.S. thematic data (life expectancy, percent smokers, car accidents, number of people on Medicare) with tooltips and extra features.
+This page has two datasets. Each has spatial data on the presence, number of, and institution names of _____.
+One is at the U.S. county level and the other is at the census tract level. Each have FIPS codes as column attributes.
+You can use these data freely.
+Maybe you would like to run a regression (in R, Python or STATA) that helps you learn whether tracts with military bases have higher birth rates.
+Or maybe you would like to use these to help readers navigate your online map. They can be used as tooltips to help explain if, for example, prison populations correlate with life expectancy, percent smokers, or number of people on Medicare.
 
 ---
 
