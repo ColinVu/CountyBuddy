@@ -1,8 +1,8 @@
 # County Buddy - A Spatial Dataset of Outliers in Prisons, Universities, Military Bases, and Reservations
 
-County Buddy is a sophisticated tool designed to allow users to extract specific, curated insights from outlier data at the county and census tract levels. Its primary objective is to provide contextual understanding of whether observed outliers can be attributed to the presence of institutions or jurisdictional enclaves within these regions. The tool compiles data across several key demographic categories, including incarcerated population, student population, military population, and Native American population. County Buddy identifies counties or tracts exhibiting outlier data and informs users of the potential influence of nearby jurisdictional enclaves on these anomalies.
+A dataset of the presence, number of, and institution names of special populations at the U.S. county and census tract level. The objective of this dataset is provide context to bolster narratives about socio-economic indicators, provide a potential ‘explainer’ for why these values appear, or provide a landscape for situating these values.
 
-For example, consider a study focused on regions with a high prevalence of a newly emerging viral disease. The researcher may identify a census tract exhibiting an unusually high infection rate, in contrast to the surrounding tracts, which show typical rates. In this case, County Buddy could inform the user that the outlier data point may be caused by a prison within the county, where the disease is prevalent but confined to the institution, thus remaining isolated from the surrounding area.
+The data can be used by researchers and developers who are studying causality and correlation in health and livelihood outcomes, as they can be easily integrated into statistical models (e.g., in R or STATA). They can also be used by developers looking to enhance their maps of U.S. thematic data (life expectancy, percent smokers, car accidents, number of people on Medicare) with tooltips and extra features.
 
 ---
 
