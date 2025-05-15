@@ -14,8 +14,8 @@ This data is earmarked at Harvard Dataverse (DOI) and was created by researchers
 
 | Category                     | Total Number of Institutions | Total Population of Institution | Counties Affected |
 |------------------------------|------------------------------:|---------------------------------:|------------------:|
-| Prisons                      |                          6737 |                         1,978,489 |              2656 |
-| Universities                 |                          3541 |                         2,794,201 |              1218 |
+| Prisons                      |                          6,737 |                         1,978,489 |              2,656 |
+| Universities                 |                          3,541 |                         2,794,201 |              1,218 |
 | Military Institutions        |                           743 |                           328,615 |               514 |
 | Native American Reservations |                           611 |                         3,745,005 |               415 |
 
@@ -25,10 +25,10 @@ This data is earmarked at Harvard Dataverse (DOI) and was created by researchers
 
 | Category                     | Total Number of Institutions | Total Population of Institution | Tracts Affected | Nearby Tracts Affected |
 |------------------------------|------------------------------:|---------------------------------:|----------------:|-----------------------:|
-| Prisons                      |                          6737 |                         1,978,489 |             4991 |                        |
-| Universities                 |                          3541 |                         2,794,201 |             2577 |                   7819 |
-| Military Institutions        |                           743 |                           328,615 |             2074 |                        |
-| Native American Reservations |                           611 |                         3,745,005 |             1445 |                        |
+| Prisons                      |                          6,737 |                         1,978,489 |             4,991 |                        |
+| Universities                 |                          3,541 |                         2,794,201 |             2,577 |                   7,819 |
+| Military Institutions        |                           743 |                           328,615 |             2,074 |                        |
+| Native American Reservations |                           611 |                         3,745,005 |             1,445 |                        |
 
 ---
 
