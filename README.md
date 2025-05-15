@@ -1,9 +1,13 @@
 # County Buddy - A Spatial Dataset of Outliers in Prisons, Universities, Military Bases, and Reservations
 
 This page has two datasets. Each has spatial data on the presence, number of, and institution names of _____.
+
 One is at the U.S. county level and the other is at the census tract level. Each have FIPS codes as column attributes.
+
 You can use these data freely.
+
 Maybe you would like to run a regression (in R, Python or STATA) that helps you learn whether tracts with military bases have higher birth rates.
+
 Or maybe you would like to use these to help readers navigate your online map. They can be used as tooltips to help explain if, for example, prison populations correlate with life expectancy, percent smokers, or number of people on Medicare.
 
 ---
