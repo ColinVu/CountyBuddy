@@ -19,7 +19,3 @@ Example usage of County Buddy in https://ocular.cc.gatech.edu/resiliency-app. Th
 
 ![outputscatterplot](https://github.com/user-attachments/assets/3a5828da-ee0a-4347-965d-43cb0bec4558)
 Data from https://ocular.cc.gatech.edu/resiliency-app plotted. Life Expectancy rates across counties are compared to Infant Mortality rates. Counties that meet County Buddy's Native American Population threshold are marked in red, whereas the rest are marked in blue.
-
----
-
-*Source: InfoDoc.pdf* :contentReference[oaicite:2]{index=2}&#8203;:contentReference[oaicite:3]{index=3}
