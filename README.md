@@ -10,25 +10,15 @@ This data is earmarked at Harvard Dataverse (DOI) and was created by researchers
 
 ---
 
-## County Summary Statistics
+# Use Cases
 
-| Category                     | Total Number of Institutions | Total Population of Institution | Counties Affected |
-|------------------------------|------------------------------:|---------------------------------:|------------------:|
-| Prisons                      |                          6,737 |                         1,978,489 |              2,656 |
-| Universities                 |                          3,541 |                         2,794,201 |              1,218 |
-| Military Institutions        |                           743 |                           328,615 |               514 |
-| Native American Reservations |                           611 |                         3,745,005 |               415 |
+Sample use cases for the datasets.
 
----
+![Screenshot 2025-05-17 013942](https://github.com/user-attachments/assets/5ba0732c-dd68-41ce-9c6d-1e5ed3074911)
+Example usage of County Buddy in https://ocular.cc.gatech.edu/resiliency-app. The figure shows Mahnomen County, MN, having an abnormally low life expectancy. County Buddy informs the user that this may be the result  of the presence of the White Earth Reservation, as the Native American population is about 43\% of the total population. The life expectancy in Mahnomen County is significantly lower than any of its surrounding counties, all of which have Native American populations that do not meet County Buddy's threshold.
 
-## Tract Summary Statistics
-
-| Category                     | Total Number of Institutions | Total Population of Institution | Tracts Affected | Nearby Tracts Affected |
-|------------------------------|------------------------------:|---------------------------------:|----------------:|-----------------------:|
-| Prisons                      |                          6,737 |                         1,978,489 |             4,991 |                        |
-| Universities                 |                          3,541 |                         2,794,201 |             2,577 |                   7,819 |
-| Military Institutions        |                           743 |                           328,615 |             2,074 |                        |
-| Native American Reservations |                           611 |                         3,745,005 |             1,445 |                        |
+![outputscatterplot](https://github.com/user-attachments/assets/3a5828da-ee0a-4347-965d-43cb0bec4558)
+Data from https://ocular.cc.gatech.edu/resiliency-app plotted. Life Expectancy rates across counties are compared to Infant Mortality rates. Counties that meet County Buddy's Native American Population threshold are marked in red, whereas the rest are marked in blue.
 
 ---
 
